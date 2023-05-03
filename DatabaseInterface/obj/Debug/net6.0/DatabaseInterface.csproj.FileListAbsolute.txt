@@ -1,0 +1,12 @@
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.csproj.AssemblyReference.cache
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.AssemblyInfoInputs.cache
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.AssemblyInfo.cs
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.csproj.CoreCompileInputs.cache
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.deps.json
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.dll
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.pdb
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.dll
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\refint\DatabaseInterface.dll
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.pdb
+E:\Users\Mike\Documents\GitHub\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\ref\DatabaseInterface.dll
